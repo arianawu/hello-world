@@ -1,0 +1,107 @@
+<div class="fool">
+<div id="top">
+  <div id="name">
+    BEAUTIFUL CREATURES
+    <div id="sub">
+      the rose is without an explanation; <br>she blooms, because she blooms.     
+    </div>
+  </div>
+</div>
+  <div id="textbox">
+
+<div id="bordera"></div>
+
+Annoy owner until he gives you food say meow repeatedly until belly rubs, feels good attack dog, run away and pretend to be victim and weigh eight pounds but take up a full-size bed. Adventure always lick arm hair yet give me attention or face the wrath of my claws. If it fits i sits inspect anything brought into the house meow to be let out kitty loves pigs but good morning sunshine demand to have some of whatever the human is cooking, then sniff the offering and walk away. 
+
+<p></p> <b>"hello!"</b>
+
+<p></p> I could pee on this if i had the energy mew yet i'm bored inside, let me out i'm lonely outside, let me in i can't make up my mind whether to go in or out, guess i'll just stand partway in and partway out, contemplating the universe for half an hour how dare you nudge me with your foot?!?!
+
+<p></p>Leap into the air in greatest offense!, for mouse. Cat cat moo moo lick ears lick paws bring your owner a dead bird cat cat moo moo lick ears lick paws or run up and down stairs chase red laser dot. Walk on car leaving trail of paw prints on hood and windshield. Lounge in doorway lick yarn hanging out of own butt for cats woo i'm going to lap some water out of my master's cup meow so instantly break out into full speed gallop across the house for no reason. Hopped up on catnip. Cereal boxes make for five star accommodation scratch twitch tail in permanent irritation but have secret plans. 
+
+<div id="notes">
+  <b>NOTES</b> stay awake stay awake with me 
+</div>
+
+  </div>
+</div>
+
+<style>
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Roboto|Playfair+Display|Open+Sans:400,400i');
+ 
+ .fool {--accent:#A4504D; transition:1.5s all;}
+ .fool:hover {--accent:#f85964; transition:1.5s all;}
+ 
+  .fool {
+    width:450px;
+    min-height:450px;
+    margin:0px auto;
+    background:#241814;
+    padding-bottom:1px;
+    border:1px solid #eee
+    }
+  .fool #top {
+    background:url(https://images.unsplash.com/photo-1533938805807-6f2482b19ef1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80);
+    height:100px;
+    background-size:cover;
+    background-position:80% 50%;
+    padding-top:50px;
+    border-bottom:2px solid #fff;
+    transition:3s all;
+    filter:saturate(50%) contrast(120%);}
+  .fool:hover #top {
+    filter:saturate(150%);
+    transition-delay:3s ease-out;}
+    
+  .fool #top #name {
+    background:#000;
+    color:#fff;
+    padding:5px;
+    width:250px;
+    border:1px solid;
+    text-align:center;
+    margin:0px auto;
+    font:italic 20px 'Playfair Display';
+    text-transform:uppercase;
+    }
+  .fool #top #sub {
+    font:italic 10px 'Times';
+    text-transform:lowercase;
+    color:#eba7a7;}
+    
+  .fool #bordera {
+    background:#E7D1D3;
+    opacity:0.7;
+    height:4px;
+    width:200px;
+    margin:0px auto 15px;
+    transition:2s all;}
+    
+  .fool:hover #bordera {
+    background:var(--accent);
+    width:300px;
+    border-radius:50px 0px;}
+    
+  .fool #textbox {
+    font:10px 'Arial';
+    color:#000;
+    padding:20px 30px;
+    text-align:justify;
+    line-height:10px;
+    margin:15px;
+    background:#fff;
+    border-radius:20px;}
+    
+  .fool #textbox b  {color:var(--accent); font:11px 'Roboto';font-weight:600}
+   .fool #textbox i {color:var(--accent); font:italic 10.5px 'Open Sans'}
+
+  .fool #notes {
+    border-top:1px solid #eee;
+    padding-top:5px;
+    margin-top:10px;
+    font:9px 'Arial'}
+  .fool #notes b {
+    background:rgba(247,204,204,0.2);
+    padding:5px;
+    font:bold 10px 'Montserrat'}
+</style>
